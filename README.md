@@ -85,11 +85,3 @@ public class Fabricio {
 </div>
 
 ---
-
-<div align="center">
-
-### `while (learning) { keepCoding(); }`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:161B22,100:1F6FEB&section=footer"/>
-
-</div>
