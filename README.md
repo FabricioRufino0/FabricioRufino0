@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:1F6FEB&section=header&text=Fabrício%20Rufino&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20Backend%20em%20formação%20%7C%20Java&descAlignY=57&descSize=16"/>
@@ -24,7 +20,7 @@
 
 Sou **Fabrício Rufino**, profissional de TI direcionando meus estudos para **desenvolvimento Backend com Java**.
 
-Atualmente estou construindo projetos para consolidar os fundamentos da linguagem, orientação a objetos e boas práticas de desenvolvimento.
+Atualmente estou construindo projetos para consolidar os fundamentos da linguagem, Orientação a Objetos e boas práticas de desenvolvimento.
 
 ```java
 public class Fabricio {
@@ -46,3 +42,54 @@ public class Fabricio {
         "Testes"
     };
 }
+```
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,html,css,postgresql"/>
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricioRufino0&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioRufino0&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🟡 Contribuições
+
+<div align="center">
+
+![Pac-Man contribution graph](https://raw.githubusercontent.com/FabricioRufino0/FabricioRufino0/output/pacman.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `while (learning) { keepCoding(); }`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:161B22,100:1F6FEB&section=footer"/>
+
+</div>
