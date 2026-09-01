@@ -56,17 +56,6 @@ public class Fabricio {
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricioRufino0&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioRufino0&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 ## 🟡 Contribuições
 
@@ -78,10 +67,3 @@ public class Fabricio {
 
 ---
 
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
----
