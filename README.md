@@ -26,7 +26,7 @@ Atualmente estou estudando desenvolvimento Backend com foco em Java e construind
 ## 🛠 Tecnologias e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,mysql,postgresql,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
 </p>
 
 ---
