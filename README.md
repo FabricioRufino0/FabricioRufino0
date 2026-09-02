@@ -30,7 +30,7 @@ public class Fabricio {
     private final String[] estudando = {
         "Java",
         "POO",
-        "Git / GitHub",
+        "Git / GitHub"
         "SQL"
     };
 
@@ -50,7 +50,7 @@ public class Fabricio {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,html,css,postgresql"/>
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,html,css,"/>
 
 </div>
 
